@@ -42,6 +42,19 @@ Diagrams can help illustrate information flows
 - privacy risks that may arise, including whether the project complies with privacy legislation and risks to privacy protection more broadly
 - any strategies that are already in place to remove or mitigate privacy risks
 - options to enhance privacy protections and address negative privacy impacts
+- analysis against the privacy principals
+
+### Collection
+
+### Use
+
+### Security and retention
+
+### Access and amendment
+
+### Disclosure
+
+### Health linkage systems
 
 ## Recommendations
 
